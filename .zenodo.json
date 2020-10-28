@@ -1,0 +1,35 @@
+{
+    "license": {
+        "id": "CC-BY-4.0"
+    },
+    "access_right": "open",
+    "communities": [
+        {
+            "identifier": "cldf-datasets"
+        },
+        {
+            "identifier": "clld"
+        },
+        {
+            "identifier": "dictionaria"
+        }
+    ],
+    "title": "dictionaria/medialengua: Media Lengua dictionary",
+    "description": "<p>Stewart, Jesse (with Gabriela Prado Ayala, Lucia Gonza Inlago). 2020. Media Lengua dictionary. Dictionaria 12. 1-3216 (Available online at https://dictionaria.clld.org/contributions/medialengua)</p>",
+    "keywords": [
+        "cldf:Dictionary",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "creators": [
+        {
+            "name": "Jesse Stewart"
+        },
+        {
+            "name": "Gabriela Prado Ayala"
+        },
+        {
+            "name": "Lucia Gonza Inlago"
+        }
+    ]
+}
