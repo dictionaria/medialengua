@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:dictionaria/medialengua",
-            "dc:created": "v1.0-8-g864c22b"
+            "dc:created": "v1.0-10-g0bf7b98"
         },
         {
             "rdf:type": "prov:Entity",

@@ -1,8 +1,21 @@
 {
-    "license": {
-        "id": "CC-BY-4.0"
-    },
+    "title": "dictionaria/medialengua: Media Lengua dictionary",
     "access_right": "open",
+    "keywords": [
+        "cldf:Dictionary",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Jesse Stewart"
+        },
+        {
+            "name": "Gabriela Prado Ayala"
+        },
+        {
+            "name": "Lucia Gonza Inlago"
+        }
+    ],
     "communities": [
         {
             "identifier": "cldf-datasets"
@@ -14,22 +27,9 @@
             "identifier": "dictionaria"
         }
     ],
-    "title": "dictionaria/medialengua: Media Lengua dictionary",
-    "description": "<p>Stewart, Jesse (with Gabriela Prado Ayala, Lucia Gonza Inlago). 2020. Media Lengua dictionary. Dictionaria 12. 1-3216 (Available online at https://dictionaria.clld.org/contributions/medialengua)</p>",
-    "keywords": [
-        "cldf:Dictionary",
-        "linguistics"
-    ],
     "upload_type": "dataset",
-    "creators": [
-        {
-            "name": "Jesse Stewart"
-        },
-        {
-            "name": "Gabriela Prado Ayala"
-        },
-        {
-            "name": "Lucia Gonza Inlago"
-        }
-    ]
+    "license": {
+        "id": "CC-BY-4.0"
+    },
+    "description": "Visser, Eline. 2020. Kalamang dictionary. Dictionaria 13. 1-2737 (Available online at http://dictionaria.clld.org/contributions/kalamang)"
 }
