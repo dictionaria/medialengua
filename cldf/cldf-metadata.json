@@ -9,7 +9,7 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Dictionary",
     "dc:creator": "Jesse Stewart with Gabriela Prado Ayala and Lucia Gonza Inlago",
     "dc:identifier": "https://dictionaria.clld.org/contributions/medialengua",
-    "dc:license": "CC-BY 4.0",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:title": "Media Lengua dictionary",
     "dcat:accessURL": "git@github.com:dictionaria/medialengua",
     "prov:wasDerivedFrom": [
@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:dictionaria/medialengua",
-            "dc:created": "v1.0-10-g0bf7b98"
+            "dc:created": "v1.0-11-g4a5d206"
         },
         {
             "rdf:type": "prov:Entity",
